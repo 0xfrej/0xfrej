@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a web software engineer with passion for ☕
+- I am a software engineer with passion for ☕
 - K8S and GCP savvy
 - I like to dig around firmware development, compilers, parsers, interpretors - to figure out how stuff works
 - Sometimes I write about my endeavours at <https://elusivebytes.com/>
