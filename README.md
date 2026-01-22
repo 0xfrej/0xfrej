@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- I am a software engineer with passion for ☕
+- I am a software engineer with passion for ☕ and 🚂
 - K8S and GCP savvy
 - I like to dig around firmware development, compilers, parsers, interpretors - to figure out how stuff works
-- Sometimes I write about my endeavours at <https://elusivebytes.com/>
+
+I will be leaving github soon, all my repositories will get archived and their continuation will from now on be [here](https://codeberg.org/ashlook)
 
 <br><br>
 
